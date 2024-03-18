@@ -6,8 +6,8 @@ This project deals with Learning Rate Optimization where I use the ADAM, Dropout
 --> Dropout helps prevent overfitting. Randomly zero out the outputs of neurons in a layer (except the last layer)
 
 **Output:**
-
 *Using ADAM and NOT Batch*
+
 <img width="770" alt="DL_Ass5Out1" src="https://github.com/ianspetnagel/Deep-Learning-3-Linear-Network-Gradient-Descent/assets/62821052/85767986-375a-4c02-8305-117ec47e228d">
 
 *Adding Batch Normalization* - Note the drop in accuracy
