@@ -2,7 +2,7 @@
 
 This project deals with Learning Rate Optimization where I use the ADAM, Dropout, and Batch Normalization algorithms.
 
---> ADAM is very popular and uses indidual parameter learning rates. Combines Momentum and RMS Prop alogorthms.
+--> ADAM is very popular and uses indidual parameter learning rates. Combines Momentum and RMSProp optimization alogorthms.
 
 --> Dropout helps prevent overfitting. Randomly zero out the outputs of neurons in a layer (except the last layer)
 
